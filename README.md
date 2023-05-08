@@ -5,7 +5,21 @@ I'm  Arian Shakib Mehr (he/him) 📍 now living in Tehran | IRAN 🇮🇷<br>⏲
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arianshakibmehr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arianshakibmehr) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/arianshakibmehr) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/arianshakibmehr) 
+<p align='center'>
+  <a href="https://www.linkedin.com/in/arianshakibmehr">
+     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>&nbsp;&nbsp;
+   <a href="https://twitter.com/arianshakibmehr">
+     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&countColor=%232ea44f" alt="Twitter badge" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/arianshakibmehr">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+  </a>&nbsp;&nbsp;
+  <a href="https://codepen.io/arianshakibmehr">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen badge" />
+  </a>&nbsp;&nbsp;
+</p>
+
 
 ## 📫 How to reach me
 
