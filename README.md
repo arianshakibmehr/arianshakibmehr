@@ -1,4 +1,4 @@
-<img src="./Banner-Arian.jpg" alt="Arian Banner" style="border-radius:20px" />
+<img src="./Banner-Arian.jpg" alt="Arian Banner" style="border-radius: 10px;" />
 
 # 💫 Hi there, I'm Arian Shakib Mehr!
 I'm  Arian Shakib Mehr (he/him) 📍 now living in Tehran | IRAN 🇮🇷<br>⏲️ I have started working Full-Time and Freelance with about two years.<br>💻 I have gained a lot of experience in the field of Front-End Developer, Website Designing and UI/UX.<br>🔍 I also have a lot of activity in the field of R&D (Research And Development).<br>🌐 I'm also intresting to learn more about WEB WORLD !
