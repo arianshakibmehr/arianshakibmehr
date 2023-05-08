@@ -20,7 +20,7 @@ I'm  Arian Shakib Mehr (he/him) 📍 now living in Tehran | IRAN 🇮🇷<br>⏲
   </a>&nbsp;&nbsp;
 </p>
 
-[![Join me!](./Banner-Arian.jpg')]
+<img src="./Banner-Arian.jpg" alt="Arian Banner" />
 
 ## 📫 How to reach me
 
