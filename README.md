@@ -7,7 +7,6 @@ I'm  Arian Shakib Mehr (he/him) 📍 now living in Tehran | IRAN 🇮🇷<br>⏲
 
 
 ## 🌐 Socials:
-<p align='center'>
   <a href="https://www.linkedin.com/in/arianshakibmehr">
      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
   </a>&nbsp;&nbsp;
@@ -20,7 +19,6 @@ I'm  Arian Shakib Mehr (he/him) 📍 now living in Tehran | IRAN 🇮🇷<br>⏲
   <a href="https://codepen.io/arianshakibmehr">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen badge" />
   </a>&nbsp;&nbsp;
-</p>
 
 ## 📫 How to reach me
 
