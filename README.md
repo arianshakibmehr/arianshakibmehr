@@ -31,8 +31,6 @@ I'm  Arian Shakib Mehr (he/him) 📍 now living in Tehran | IRAN 🇮🇷<br>⏲
 ![](https://github-readme-streak-stats.herokuapp.com/?user=arianshakibmehr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arianshakibmehr&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=arianshakibmehr)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
